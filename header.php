@@ -11,7 +11,7 @@
         <?php include "menu.php"; ?>
     </div>
   </div>
-  <div class="carrito">
+  <div class="cart">
     <img src="images/cart.png" alt="cart"/>
   </div>
 </div>

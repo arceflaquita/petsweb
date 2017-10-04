@@ -10,40 +10,14 @@
       <li><a href="#">Contacto</a></li>
     </ul>
   </div>
-
-  <div id="socialicons">
-  <div class="socialicon">
-  <div class="facebookcolor socialiconcircle1"></div>
-  <div class="socialiconcircle2">
-  <i class="fa icons fa-facebook-square facebook"></i>
+  <div class="footer-social">
+    <ul>
+      <li><a href="#"><img src="images/facebook.jpg" alt="facebook"/></a></li>
+      <li><a href="#"><img src="images/twitter.jpg" alt="twitter"/></a></li>
+      <li><a href="#"><img src="images/linkedin.png" alt="linkedin"/></a></li>
+      <li><a href="#"><img src="images/youtube.png" alt="youtube"/></a></li>
+    </ul>
   </div>
-  </div>
-  <div class="socialicon">
-  <div class="googlecolor socialiconcircle1"></div>
-  <div class="socialiconcircle2">
-  <i class="fa icons fa-google-plus-square google"></i>
-  </div>
-  </div>
-  <div class="socialicon">
-  <div class="githubcolor socialiconcircle1"></div>
-  <div class="socialiconcircle2">
-  <i class="fa icons fa-github-alt github"></i>
-  </div>
-  </div>
-  <div class="socialicon">
-  <div class="linkedincolor socialiconcircle1"></div>
-  <div class="socialiconcircle2">
-  <i class="fa icons fa-linkedin-square linkedin"></i>
-  </div>
-  </div>
-  <div class="socialicon">
-  <div class="youtubecolor socialiconcircle1"></div>
-  <div class="socialiconcircle2">
-  <i class="fa icons fa-youtube-square youtube"></i>
-  </div>
-  </div>
-  </div>
-
   <div class="footer-copyright">
   Copyright Todos los Derechos Reservados | Tienda de mascotas "Manchitas"
   </div>
